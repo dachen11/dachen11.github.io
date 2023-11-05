@@ -1,8 +1,5 @@
-# dachen11.github.io
+# My Github home page
 
+The website is created with Docusaurus  https://docusaurus.io/
 
-## start to learn something new
-
-### Java Project
-
-### Python Project
+https://dachen11.github.io
